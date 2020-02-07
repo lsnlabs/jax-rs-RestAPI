@@ -1,0 +1,5 @@
+com/lsnlabs/jax/rs/rest/lib/v1/common/BaseType.class
+com/lsnlabs/jax/rs/rest/lib/v1/CustomerStatus.class
+com/lsnlabs/jax/rs/rest/lib/v1/common/ApiError.class
+com/lsnlabs/jax/rs/rest/lib/v1/Customer.class
+com/lsnlabs/jax/rs/rest/lib/v1/response/CustomerList.class
